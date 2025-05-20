@@ -1,0 +1,9 @@
+Full Time Employee 
+Fid = 123
+Fname = Amritanshu
+Salary = 5000
+
+Half Time Employee 
+Hid = 456
+Hname = Ram
+HSalary = 4000

@@ -1,0 +1,22 @@
+File Content :- 
+package mypack;
+public class mypack1
+{
+    int pub;
+    protected int protect;
+    private int pri;
+    int def;
+    void function()
+    {
+        System.out.println("pub = "+pub+"\nprotect = "+protect+"\npri = "+pri+"\ndef = "+def);
+    }
+    void func2()
+    {
+        System.out.println("\npub = "+pub+"\nprotect = "+protect);
+    }
+
+    public static void main(String[] Amritanshu)
+    {
+        System.out.println("In accesspack ");
+    }
+}

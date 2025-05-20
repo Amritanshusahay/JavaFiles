@@ -1,0 +1,7 @@
+Fid= 123
+Fname= Amritanshu
+Fbasicsalary= 5000
+
+Hid= 456
+Hname= Ram
+Hbasicsalary= 4000
